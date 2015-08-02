@@ -1,0 +1,17 @@
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+*.sqlite3
+*.db
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+.DS_Store
